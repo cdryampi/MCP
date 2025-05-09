@@ -22,10 +22,11 @@ Este proyecto crea un servidor MCP en Python que expone una herramienta para con
 
 ```
 .
-├── server.py           # Servidor MCP con herramienta "consultar_api"
-├── .env                # Variables opcionales para auth/API
-├── claude.json         # Config. MCP para integrarlo directamente
-└── README.md           # Este documento
+├── servidores/prfile.py          # Servidor MCP con herramientas para interactuar con mi backend del curriculum.
+├── server.py                     # Servidor MCP con herramienta "consultar_api".
+├── .env                          # Variables opcionales para auth/API.
+├── claude.json                   # Config. MCP para integrarlo directamente.
+└── README.md                     # Este documento.
 ```
 
 ---
